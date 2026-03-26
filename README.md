@@ -105,42 +105,6 @@ pyproject.toml            # Package configuration
 run.py                    # Entry point for training
 ```
 
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/BrianComposer/transfolk.git
-cd transfolk
-```
-
-Install in editable mode:
-
-```bash
-pip install -e .
-```
-
-Recommended Python version: **3.11+**
-
----
-
-## Training
-
-Run training:
-
-```bash
-python run.py
-```
-
-Or use scripts inside:
-
-```
-apps/
-```
-
----
 
 ## Generation (API)
 
